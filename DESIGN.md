@@ -62,7 +62,7 @@ Time: 4 hrs
 
 ***Total Time: 28 hrs***
 
-# **Day 5**
+# **Day 6**
 
 Alright, now im modelling.
 
@@ -82,7 +82,7 @@ Time: 8 hrs
 
 ***Total Time: 36 hrs***
 
-# **Day 6**
+# **Day 7**
 
 Alright, so i made a proper housing and screw structure for the cooling fans.
 Also added the fasteners to the project.

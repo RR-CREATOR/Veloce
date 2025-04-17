@@ -241,6 +241,10 @@ I added colors. YIPPEEEE. perfection. hopefully ; p
 
 ![image](https://github.com/user-attachments/assets/a008c3a0-c15c-4684-a610-d76752d1696a)
 
+SOOOO this printr satisfied by build volume req, and its main purpose was rapid prototyping with good quality print,
+which it should be able to do. I tried to optimize it as much as I could, and im using pretty good motors and balanced stuf so it should be pretty fast.
+Im also using webcam for continuosly altering print settings to try to get better quality, using AI/ML.
+Hopefully it works ;)
 
 Time: 5hrs
 

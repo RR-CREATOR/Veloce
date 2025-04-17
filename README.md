@@ -11,3 +11,5 @@ So made the printer around that.
 
 The name Veloce means speed, which is my goal.
 To that extend, I tried to modify the design to minimise resistance of moving parts :p
+
+![image](https://github.com/user-attachments/assets/04f83404-5b55-4b2d-bc50-57974f071e91)
